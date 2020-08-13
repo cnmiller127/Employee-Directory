@@ -1,0 +1,25 @@
+
+[
+    {
+    "name": "Adrian Vazquez", 
+    "position": "CEO", 
+    "email": "avazquez@notemail.com", 
+    "office": "555-555-2976", 
+    "img": "/images/vazquez.jpg"
+    },
+    {
+    "name": "Luca Lorenzo", 
+    "position": "CFO", 
+    "email": "llorenzo@notemail.com", 
+    "office": "555-555-3046", 
+    "img": "/images/lorenzo.jpg"
+},
+    {
+    "name": "Dan Carey", 
+    "position": "Manager", 
+    "email": "dcarey@notemail.com", 
+    "office": "555-555-9393", 
+    "img": "/images/carey.jpg"
+    }
+]
+
