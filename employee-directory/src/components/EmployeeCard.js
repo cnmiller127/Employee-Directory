@@ -5,14 +5,16 @@ import "../style.css";
 function EmployeeCard(props) {
    props = props.children;
   return (
-    <div className="card m-3" style ={{width: "18rem"}, {display: "inline-block"}} >
+    
+    <div className="card my-3 d-flex-inline" style ={{width: "18rem"}} >
+        <div className="imgWrapper my-3">
+        <img className = "img m-auto" alt={props.name} src={props.img} />
+        </div>
       
-        <img className = "img" alt={props.name} src={props.img} />
-      
-      <div className="card-body">
+      <div className="card-body bg-info justify-content-center">
         <ul>
-          <h3>
-            <strong>Name:</strong> {props.name}
+          <h3 className = "name">
+            {props.name}
           </h3>
           <p>
             <strong>Postion:</strong> {props.position}
@@ -26,6 +28,7 @@ function EmployeeCard(props) {
         </ul>
       </div>
     </div>
+    
   );
 }
 

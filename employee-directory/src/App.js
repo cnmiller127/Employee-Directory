@@ -23,9 +23,11 @@ class App extends Component {
 render(){
 
   return (
-    <div className = "container-fluid" onChange = {this.handleChange} onSubmit = {this.handleSubmit} >
+    <div className = "container-fluid p-0" onChange = {this.handleChange} onSubmit = {this.handleSubmit} >
       <Jumbotron />
-      <Search /> 
+      <Search />
+      <div className = "row p-3">
+       
       {
       this.state.filtered.map(employee => (
         <EmployeeCard>
@@ -33,6 +35,7 @@ render(){
         </EmployeeCard>
       )
       )}
+    </div>
     </div>
  
     );

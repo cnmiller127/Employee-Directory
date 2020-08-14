@@ -10,8 +10,9 @@ constructor(props) {
     render(){
 
    return(
-       <form>
-           <input className = "search" />
+       <form className = "mx-3 mt-3">
+           <input className = "search" placeholder="Employee Search" />
+           <label>🔍</label>
        </form>
    )
     
