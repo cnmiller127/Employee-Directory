@@ -1,6 +1,6 @@
 import React from "react";
 import "../style.css";
-
+const dir = "https://cnmiller127.github.io/Employee-Directory";
 
 function EmployeeCard(props) {
    props = props.children;
@@ -9,7 +9,7 @@ function EmployeeCard(props) {
     
     <div className="card my-3 d-flex-inline" style ={{width: "18rem"}} >
         <div className="imgWrapper my-3">
-        <img className = "img m-auto" alt={props.name} src={props.img} />
+        <img className = "img m-auto" alt={props.name} src={dir + props.img} />
         </div>
       
       <div className="card-body bg-info justify-content-center">
