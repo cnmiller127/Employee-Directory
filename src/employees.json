@@ -5,42 +5,42 @@
     "position": "CEO", 
     "email": "avazquez@notemail.com", 
     "office": "555-555-2976", 
-    "img": "vazquez.jpg"
+    "img": "/images/vazquez.jpg"
     },
     {
         "name": "Luca Lorenzo", 
         "position": "CFO", 
         "email": "llorenzo@notemail.com", 
         "office": "555-555-3046", 
-        "img": "lorenzo.jpg"
+        "img": "/images/lorenzo.jpg"
         },
         {
         "name": "Dan Carey", 
         "position": "Manager", 
         "email": "dcarey@notemail.com", 
         "office": "555-555-9393", 
-        "img": "carey.jpg"
+        "img": "/images/carey.jpg"
         },
         {
             "name": "Brianna Doherty", 
             "position": "HR Representative", 
             "email": "bdoherty@notemail.com", 
             "office": "555-555-2976", 
-            "img": "doherty.jpg"
+            "img": "/images/doherty.jpg"
             },
             {
             "name": "Sarah Walker", 
             "position": "Lead Sales Representative", 
             "email": "swalker@notemail.com", 
             "office": "555-555-3046", 
-            "img": "walker.jpg"
+            "img": "/images/walker.jpg"
         },
             {
             "name": "Gregory Marthas", 
             "position": "Lead Accountant", 
             "email": "gmarthas@notemail.com", 
             "office": "555-555-9393", 
-            "img": "carey.jpg"
+            "img": "/images/carey.jpg"
             }
             ,
             {
