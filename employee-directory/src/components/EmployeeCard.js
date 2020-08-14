@@ -4,11 +4,12 @@ import "../style.css";
 
 function EmployeeCard(props) {
    props = props.children;
+   console.log(typeof(props.img))
   return (
     
     <div className="card my-3 d-flex-inline" style ={{width: "18rem"}} >
         <div className="imgWrapper my-3">
-        <img className = "img m-auto" alt={props.name} src={props.img} />
+        <img className = "img m-auto" alt={props.name} src={require('../images/'  + props.img)} />
         </div>
       
       <div className="card-body bg-info justify-content-center">
