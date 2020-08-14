@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cnmiller127/Employee-Directory/static/css/main.1c90fb88.chunk.css",
+    "main.js": "/cnmiller127/Employee-Directory/static/js/main.9e111824.chunk.js",
+    "main.js.map": "/cnmiller127/Employee-Directory/static/js/main.9e111824.chunk.js.map",
+    "runtime-main.js": "/cnmiller127/Employee-Directory/static/js/runtime-main.05542342.js",
+    "runtime-main.js.map": "/cnmiller127/Employee-Directory/static/js/runtime-main.05542342.js.map",
+    "static/js/2.b5651228.chunk.js": "/cnmiller127/Employee-Directory/static/js/2.b5651228.chunk.js",
+    "static/js/2.b5651228.chunk.js.map": "/cnmiller127/Employee-Directory/static/js/2.b5651228.chunk.js.map",
+    "index.html": "/cnmiller127/Employee-Directory/index.html",
+    "precache-manifest.ccbeff024a5a583fac907ff126992359.js": "/cnmiller127/Employee-Directory/precache-manifest.ccbeff024a5a583fac907ff126992359.js",
+    "service-worker.js": "/cnmiller127/Employee-Directory/service-worker.js",
+    "static/css/main.1c90fb88.chunk.css.map": "/cnmiller127/Employee-Directory/static/css/main.1c90fb88.chunk.css.map",
+    "static/js/2.b5651228.chunk.js.LICENSE.txt": "/cnmiller127/Employee-Directory/static/js/2.b5651228.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05542342.js",
+    "static/js/2.b5651228.chunk.js",
+    "static/css/main.1c90fb88.chunk.css",
+    "static/js/main.9e111824.chunk.js"
+  ]
+}
